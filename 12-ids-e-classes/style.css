@@ -1,0 +1,25 @@
+/* 
+*#*USANDO ID COMO INDENTIFICADOR
+
+#descricao-videogame {
+    background-color: orange;
+}
+
+#descricao-pc {
+    background-color: orange;
+} 
+
+*#*USANDO MODO MENOS VERBOSO PARA A MESMA ESTILISAÇÃO
+
+ #descricao-videogame, #descricao-pc {
+    background-color: orange;
+} */
+
+.descricao-produto {
+    background-color: orange;
+    color: aliceblue;
+}
+
+.promocao {
+    border: solid 10px green;
+}
